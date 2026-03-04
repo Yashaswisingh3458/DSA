@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0849-maximize-distance-to-closest-person](https://github.com/Yashaswisingh3458/leetcode/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
