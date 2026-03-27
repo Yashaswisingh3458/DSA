@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -37,10 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yashaswisingh3458/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
 | ------- |
