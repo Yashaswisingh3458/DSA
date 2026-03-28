@@ -1,0 +1,81 @@
+class Solution {
+public:
+    string originalDigits(string s) {
+        string ys="";
+        unordered_map<char,int>y;
+        for(int i =0;i<s.size();i++){
+            y[s[i]]+=1;
+        }
+        while(y['z']>0){
+            ys+='0';
+            y['z']-=1;
+            y['e']-=1;
+            y['r']-=1;
+            y['o']-=1;
+        }
+        while(y['w']>0){
+            ys+='2';
+            y['t']-=1;
+            y['w']-=1;
+            y['o']-=1;
+        }
+        while(y['u']>0){
+            ys+='4';
+            y['f']-=1;
+            y['o']-=1;
+            y['u']-=1;
+            y['r']-=1;
+        }
+        while(y['x']>0){
+            ys+='6';
+            y['s']-=1;
+            y['i']-=1;
+            y['x']-=1;
+        }
+        while(y['g']>0){
+            ys+='8';
+            y['e']-=1;
+            y['i']-=1;
+            y['g']-=1;
+            y['h']-=1;
+            y['t']-=1;
+        }
+        while(y['o']>0){
+            ys+='1';
+            y['o']-=1;
+            y['n']-=1;
+            y['e']-=1;
+        }
+        while(y['h']>0){
+            ys+='3';
+            y['t']-=1;
+            y['h']-=1;
+            y['r']-=1;
+            y['e']-=2;
+        }
+        while(y['f']>0){
+            y['f']-=1;
+            y['i']-=1;
+            y['v']-=1;
+            y['e']-=1;
+            ys+='5';
+        }
+        while(y['s']>0){
+            y['s']-=1;
+            y['e']-=1;
+            y['v']-=1;
+            y['e']-=1;
+            y['n']-=1;
+            ys+='7';
+        }
+        while(y['i']>0){
+            y['n']-=1;
+            y['i']-=1;
+            y['n']-=1;
+            y['e']-=1;
+            ys+='9';
+        }
+        sort(ys.begin(),ys.end());
+        return ys;
+    }
+};
