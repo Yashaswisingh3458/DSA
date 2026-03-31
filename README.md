@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
