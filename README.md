@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
