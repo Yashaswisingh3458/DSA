@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Yashaswisingh3458/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
