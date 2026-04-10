@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashaswisingh3458/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -155,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
