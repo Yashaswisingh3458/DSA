@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3889-mirror-frequency-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Backtracking
 |  |
