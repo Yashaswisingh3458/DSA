@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1051-height-checker](https://github.com/Yashaswisingh3458/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Yashaswisingh3458/DSA/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/Yashaswisingh3458/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashaswisingh3458/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1051-height-checker](https://github.com/Yashaswisingh3458/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Yashaswisingh3458/DSA/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
