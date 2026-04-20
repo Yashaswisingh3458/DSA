@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yashaswisingh3458/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Yashaswisingh3458/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashaswisingh3458/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Yashaswisingh3458/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
