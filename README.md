@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashaswisingh3458/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Yashaswisingh3458/DSA/tree/master/0739-daily-temperatures) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashaswisingh3458/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
@@ -220,11 +221,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashaswisingh3458/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashaswisingh3458/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashaswisingh3458/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashaswisingh3458/DSA/tree/master/0101-symmetric-tree) |
 ## Trie
