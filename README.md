@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yashaswisingh3458/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3136-valid-word](https://github.com/Yashaswisingh3458/leetcode/tree/main/3136-valid-word/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2833-furthest-point-from-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3889-mirror-frequency-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Bit Manipulation
 |  |
