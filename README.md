@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yashaswisingh3458/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yashaswisingh3458/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yashaswisingh3458/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
