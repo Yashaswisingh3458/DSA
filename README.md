@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/Yashaswisingh3458/DSA/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Yashaswisingh3458/leetcode/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Yashaswisingh3458/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashaswisingh3458/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
