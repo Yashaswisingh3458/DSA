@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1009-complement-of-base-10-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yashaswisingh3458/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
