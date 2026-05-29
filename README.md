@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Yashaswisingh3458/DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yashaswisingh3458/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
