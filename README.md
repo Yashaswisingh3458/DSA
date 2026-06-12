@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Yashaswisingh3458/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashaswisingh3458/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
