@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/Yashaswisingh3458/DSA/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Yashaswisingh3458/leetcode/tree/main/3136-valid-word/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Yashaswisingh3458/DSA/tree/master/3838-weighted-word-mapping) |
 | [3889-mirror-frequency-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashaswisingh3458/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3838-weighted-word-mapping](https://github.com/Yashaswisingh3458/DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
