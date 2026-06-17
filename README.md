@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Yashaswisingh3458/leetcode/tree/main/3136-valid-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Yashaswisingh3458/DSA/tree/master/3838-weighted-word-mapping) |
 | [3889-mirror-frequency-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Yashaswisingh3458/DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
