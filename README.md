@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Yashaswisingh3458/DSA/tree/master/0299-bulls-and-cows) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yashaswisingh3458/DSA/tree/master/0036-valid-sudoku) |
+| [0299-bulls-and-cows](https://github.com/Yashaswisingh3458/DSA/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0454-4sum-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0454-4sum-ii) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Yashaswisingh3458/DSA/tree/master/0299-bulls-and-cows) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
