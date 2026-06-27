@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Yashaswisingh3458/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Yashaswisingh3458/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Yashaswisingh3458/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashaswisingh3458/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/Yashaswisingh3458/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1451-rearrange-words-in-a-sentence](https://github.com/Yashaswisingh3458/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Yashaswisingh3458/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1630-arithmetic-subarrays](https://github.com/Yashaswisingh3458/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Yashaswisingh3458/DSA/tree/master/2126-destroying-asteroids) |
