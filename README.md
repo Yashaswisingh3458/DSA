@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashaswisingh3458/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yashaswisingh3458/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Yashaswisingh3458/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashaswisingh3458/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Yashaswisingh3458/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashaswisingh3458/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2784-check-if-array-is-good](https://github.com/Yashaswisingh3458/DSA/tree/master/2784-check-if-array-is-good) |
