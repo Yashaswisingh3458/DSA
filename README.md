@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0454-4sum-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0454-4sum-ii) |
+| [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/Yashaswisingh3458/DSA/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Yashaswisingh3458/DSA/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashaswisingh3458/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashaswisingh3458/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
