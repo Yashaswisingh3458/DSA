@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0849-maximize-distance-to-closest-person](https://github.com/Yashaswisingh3458/leetcode/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswisingh3458/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Yashaswisingh3458/DSA/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashaswisingh3458/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Yashaswisingh3458/DSA/tree/master/1029-two-city-scheduling) |
