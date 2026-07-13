@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
