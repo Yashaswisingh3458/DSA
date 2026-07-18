@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yashaswisingh3458/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yashaswisingh3458/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashaswisingh3458/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yashaswisingh3458/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Yashaswisingh3458/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashaswisingh3458/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
