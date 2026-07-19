@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
+| [0738-monotone-increasing-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Yashaswisingh3458/DSA/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Yashaswisingh3458/leetcode/tree/main/1323-maximum-69-number/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0738-monotone-increasing-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Yashaswisingh3458/DSA/tree/master/0846-hand-of-straights) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
