@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Yashaswisingh3458/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1260-shift-2d-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Yashaswisingh3458/DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Yashaswisingh3458/DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashaswisingh3458/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yashaswisingh3458/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
