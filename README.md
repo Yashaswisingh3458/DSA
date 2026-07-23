@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Yashaswisingh3458/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashaswisingh3458/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yashaswisingh3458/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
