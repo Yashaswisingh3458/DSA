@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Yashaswisingh3458/leetcode/tree/main/3136-valid-word/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2780-minimum-index-of-a-valid-split](https://github.com/Yashaswisingh3458/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Yashaswisingh3458/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/3731-find-missing-elements) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1051-height-checker](https://github.com/Yashaswisingh3458/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
