@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Yashaswisingh3458/DSA/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/Yashaswisingh3458/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/Yashaswisingh3458/DSA/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Yashaswisingh3458/DSA/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yashaswisingh3458/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0454-4sum-ii) |
 | [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Yashaswisingh3458/DSA/tree/master/0846-hand-of-straights) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Yashaswisingh3458/DSA/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yashaswisingh3458/leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashaswisingh3458/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Yashaswisingh3458/DSA/tree/master/0846-hand-of-straights) |
@@ -422,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yashaswisingh3458/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -499,4 +504,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashaswisingh3458/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
