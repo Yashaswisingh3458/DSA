@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Yashaswisingh3458/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0054-spiral-matrix) |
+| [0137-single-number-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yashaswisingh3458/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yashaswisingh3458/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1009-complement-of-base-10-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
