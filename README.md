@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Yashaswisingh3458/DSA/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Yashaswisingh3458/DSA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3488-closest-equal-element-queries](https://github.com/Yashaswisingh3458/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Yashaswisingh3458/DSA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Yashaswisingh3458/DSA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Yashaswisingh3458/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Yashaswisingh3458/DSA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashaswisingh3458/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
