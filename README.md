@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yashaswisingh3458/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Yashaswisingh3458/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashaswisingh3458/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashaswisingh3458/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Yashaswisingh3458/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2405-optimal-partition-of-string](https://github.com/Yashaswisingh3458/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Yashaswisingh3458/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yashaswisingh3458/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Yashaswisingh3458/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashaswisingh3458/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2191-sort-the-jumbled-numbers) |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
