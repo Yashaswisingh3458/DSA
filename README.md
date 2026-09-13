@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yashaswisingh3458/DSA/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/Yashaswisingh3458/DSA/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Yashaswisingh3458/leetcode/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Yashaswisingh3458/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yashaswisingh3458/DSA/tree/master/0905-sort-array-by-parity) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Yashaswisingh3458/DSA/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yashaswisingh3458/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0054-spiral-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yashaswisingh3458/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yashaswisingh3458/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yashaswisingh3458/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0738-monotone-increasing-digits](https://github.com/Yashaswisingh3458/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/Yashaswisingh3458/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Yashaswisingh3458/DSA/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yashaswisingh3458/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Yashaswisingh3458/DSA/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yashaswisingh3458/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
