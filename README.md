@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3889-mirror-frequency-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/3889-mirror-frequency-distance) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Backtracking
 |  |
 | ------- |
