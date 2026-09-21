@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yashaswisingh3458/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Yashaswisingh3458/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yashaswisingh3458/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2405-optimal-partition-of-string](https://github.com/Yashaswisingh3458/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Yashaswisingh3458/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yashaswisingh3458/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashaswisingh3458/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashaswisingh3458/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Yashaswisingh3458/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashaswisingh3458/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2191-sort-the-jumbled-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Yashaswisingh3458/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Yashaswisingh3458/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Yashaswisingh3458/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Yashaswisingh3458/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
