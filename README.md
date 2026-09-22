@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Yashaswisingh3458/DSA/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yashaswisingh3458/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/Yashaswisingh3458/DSA/tree/master/0461-hamming-distance) |
 | [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Yashaswisingh3458/leetcode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
