@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Yashaswisingh3458/DSA/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yashaswisingh3458/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Yashaswisingh3458/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-score-after-flipping-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Yashaswisingh3458/DSA/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
