@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Yashaswisingh3458/DSA/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yashaswisingh3458/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yashaswisingh3458/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Yashaswisingh3458/DSA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashaswisingh3458/DSA/tree/master/3483-unique-3-digit-even-numbers) |
