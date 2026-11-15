@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Yashaswisingh3458/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Yashaswisingh3458/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yashaswisingh3458/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/Yashaswisingh3458/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yashaswisingh3458/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/Yashaswisingh3458/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yashaswisingh3458/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yashaswisingh3458/leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yashaswisingh3458/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Yashaswisingh3458/DSA/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Yashaswisingh3458/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yashaswisingh3458/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Yashaswisingh3458/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yashaswisingh3458/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashaswisingh3458/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Yashaswisingh3458/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Yashaswisingh3458/DSA/tree/master/1732-find-the-highest-altitude) |
