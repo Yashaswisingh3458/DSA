@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Yashaswisingh3458/DSA/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Yashaswisingh3458/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yashaswisingh3458/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2679-sum-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Yashaswisingh3458/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Yashaswisingh3458/leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2939-maximum-xor-product](https://github.com/Yashaswisingh3458/DSA/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashaswisingh3458/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yashaswisingh3458/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Yashaswisingh3458/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Yashaswisingh3458/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashaswisingh3458/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashaswisingh3458/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Yashaswisingh3458/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Yashaswisingh3458/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Yashaswisingh3458/DSA/tree/master/2784-check-if-array-is-good) |
